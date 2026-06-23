@@ -1,5 +1,3 @@
-Here I built a machine learning-based demand forecasting model to predict optimal shipment quantity across FMCG warehouses and improve inventory planning
-and also analyzed 25K+ supply chain records by performing EDA, data preprocessing, feature engineering, statistical analysis, and feature selection.
+Here I am attaching a Jupyter notebook and report of the Supply Chain Management Project, where I built a machine learning-based demand forecasting model to predict optimal shipment quantity across FMCG warehouses and improve inventory planning, and also analyzed 25K+ supply chain records by performing EDA, data preprocessing, feature engineering, statistical analysis, and feature selection.
 
-Developed and evaluated regression models using Scikit-learn & Statsmodels with performance metrics including R², Adjusted R², RMSE, MAE, and MAPE and 
-also delivered insights to optimize warehouse allocation, reduce inventory inefficiencies, and support data-driven supply chain decisions. 
+Developed and evaluated regression models using Scikit-learn & Statsmodels with performance metrics including R², Adjusted R², RMSE, MAE, MAPE, and also delivered insights to optimize warehouse allocation, reduce inventory inefficiencies, and support data-driven supply chain decisions.
